@@ -5,8 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86aa137b-e614-488a-8dd0-235a894a35f8" name="Changes" comment="lesson3">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Park.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Cats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Pets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Plate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/Person.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +35,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Lesson4" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -56,8 +68,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "Lesson4",
-    "last_opened_file_path": "C:/Users/12345/IdeaProjects/AQA",
+    "git-widget-placeholder": "Lesson5",
+    "last_opened_file_path": "C:/Users/12345/IdeaProjects/AQA/src/main/java/org/example",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -77,20 +89,12 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Person">
-    <configuration name="Leson2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Leson2" />
-      <module name="AQA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\12345\IdeaProjects\AQA\src\main\java\org\example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Result">
     <configuration name="Lesson2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Lesson2" />
       <module name="AQA" />
@@ -104,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_3.Lesson3" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="AQA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson_3.*" />
+          <option name="PATTERN" value="org.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,8 +121,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.MainClass" />
       <module name="AQA" />
       <extension name="coverage">
         <pattern>
@@ -143,13 +147,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Result" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Result" />
+      <module name="AQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Result" />
+        <item itemvalue="Application.MainClass" />
         <item itemvalue="Application.Person" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Lesson2" />
-        <item itemvalue="Application.Leson2" />
-        <item itemvalue="Application.Lesson3" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +189,12 @@
       <workItem from="1698617337528" duration="33000" />
       <workItem from="1698686925831" duration="728000" />
       <workItem from="1698688311944" duration="313000" />
-      <workItem from="1698689077672" duration="3281000" />
+      <workItem from="1698689077672" duration="3654000" />
+      <workItem from="1699033290494" duration="117000" />
+      <workItem from="1699035855888" duration="733000" />
+      <workItem from="1699253126494" duration="19000" />
+      <workItem from="1699273802538" duration="1126000" />
+      <workItem from="1699293441809" duration="3975000" />
     </task>
     <task id="LOCAL-00001" summary="lesson2">
       <option name="closed" value="true" />
@@ -190,7 +212,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698261758953</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="lesson3">
+      <option name="closed" value="true" />
+      <created>1698692722173</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698692722173</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
