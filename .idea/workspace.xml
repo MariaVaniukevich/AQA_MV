@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86aa137b-e614-488a-8dd0-235a894a35f8" name="Changes" comment="lesson3">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Cats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Pets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Plate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Triangle.java" afterDir="false" />
+    <list default="true" id="86aa137b-e614-488a-8dd0-235a894a35f8" name="Changes" comment="lesson5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/Person.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Lesson4" />
+        <entry key="$PROJECT_DIR$" value="Lesson5" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -68,7 +55,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "Lesson5",
+    "git-widget-placeholder": "Lesson6",
     "last_opened_file_path": "C:/Users/12345/IdeaProjects/AQA/src/main/java/org/example",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -94,9 +81,9 @@
       <recent name="C:\Users\12345\IdeaProjects\AQA\src\main\java\org\example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Result">
-    <configuration name="Lesson2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Lesson2" />
+  <component name="RunManager" selected="Application.AppData">
+    <configuration name="AppData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.AppData" />
       <module name="AQA" />
       <extension name="coverage">
         <pattern>
@@ -162,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AppData" />
         <item itemvalue="Application.Result" />
         <item itemvalue="Application.MainClass" />
         <item itemvalue="Application.Person" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Lesson2" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +181,8 @@
       <workItem from="1699035855888" duration="733000" />
       <workItem from="1699253126494" duration="19000" />
       <workItem from="1699273802538" duration="1126000" />
-      <workItem from="1699293441809" duration="3975000" />
+      <workItem from="1699293441809" duration="4521000" />
+      <workItem from="1699470481375" duration="2135000" />
     </task>
     <task id="LOCAL-00001" summary="lesson2">
       <option name="closed" value="true" />
@@ -220,7 +208,23 @@
       <option name="project" value="LOCAL" />
       <updated>1698692722173</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="lesson5">
+      <option name="closed" value="true" />
+      <created>1699297507807</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699297507808</updated>
+    </task>
+    <task id="LOCAL-00005" summary="lesson5">
+      <option name="closed" value="true" />
+      <created>1699297552361</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699297552361</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,6 +256,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lesson2" />
     <MESSAGE value="lesson3" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson3" />
+    <MESSAGE value="lesson5" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson5" />
   </component>
 </project>
